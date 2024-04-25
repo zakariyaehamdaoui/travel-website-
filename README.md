@@ -1,3 +1,4 @@
+![screencapture-localhost-3000-2024-04-25-12_59_44](https://github.com/zakariyaehamdaoui/travel-website-/assets/126725437/4798b5db-111d-4016-8347-66981e285fd4)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
